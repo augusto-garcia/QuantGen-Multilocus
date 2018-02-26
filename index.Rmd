@@ -111,7 +111,7 @@ $$\phantom{AAA}-(\alpha\delta)_{ikl}-(\alpha\delta)_{jkl}-(\alpha\delta)_{ijk}-(
 
 $$\sigma^2_G=\sigma^2_A+\sigma^2_D+\sigma^2_{AA}+\sigma^2_{AD}+\sigma^2_{DD}+...$$
 
-- Remember that with more than 2 loci with can have high order interactions!
+- Remember that with more than 2 loci we can have high order interactions!
 - Epistatic interactions can inflate the additive and/or dominance
   components of genetic variance
 
