@@ -95,7 +95,7 @@ Some notes on the first slide
 
 - Model fit is done sequentially and epistasis is modeled as deviations
 
-$$(\alpha\alpha)_{ik}=G_{i.k.}-\mu_G-\alpha_{i}\alpha_{k}$$
+$$(\alpha\alpha)_{ik}=G_{i.k.}-\mu_G-\alpha_{i}-\alpha_{k}$$
 
 $$(\alpha\delta)_{ikl}=G_{i.kl}-\mu_G-\alpha_i-\alpha_k-\alpha_l-\delta_{kl}-(\alpha\alpha)_{ik}-(\alpha\alpha)_{il}$$
 
